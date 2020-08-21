@@ -2,9 +2,7 @@
 
 
 ### 🔭 I’m currently working on: 
-Android and Flutter projects 
-### 👯 I’m looking to collaborate on: 
-Flutter applications
+Mobile Applications. Android and Flutter projects. 
 ### 💬 Let's talk about:
 Your pet projects, or any interesting ideas you want to collaborate on. 
 ### 📫 How to reach me:
