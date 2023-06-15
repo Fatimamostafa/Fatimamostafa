@@ -2,7 +2,7 @@
 
 
 ### 🔭 I’m currently working on: 
-Mobile Applications. Android and Flutter projects. 
+Flutter framework. Android, iOS, web, desktop, macOS.
 ### 💬 Let's talk about:
 Your pet projects, or any interesting ideas you want to collaborate on. 
 ### 📫 How to reach me:
